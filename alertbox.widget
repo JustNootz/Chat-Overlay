@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }",
+    "fps": 30,
+    "fps_custom": false,
+    "height": 1000,
+    "reroute_audio": false,
+    "restart_when_active": false,
+    "shutdown": true,
+    "url": "",
+    "width": 1000
+  },
+  "name": "Alert Box",
+  "type": 0,
+  "x": 0,
+  "y": 0,
+  "scaleX": 0.0003825301204819278,
+  "scaleY": 0.0006800535475234271
+}

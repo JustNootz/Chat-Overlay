@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "css": "body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }",
+    "fps": 30,
+    "fps_custom": false,
+    "height": 1000,
+    "reroute_audio": false,
+    "restart_when_active": false,
+    "shutdown": true,
+    "url": "",
+    "width": 1280
+  },
+  "name": "Chat Box",
+  "type": 6,
+  "x": 0,
+  "y": 0,
+  "scaleX": 0.0003436944765066731,
+  "scaleY": 0.0005266903914590748
+}
